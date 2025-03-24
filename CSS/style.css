@@ -1,0 +1,49 @@
+/* General Styling */
+body {
+    font-family: 'Arial', Georgia, 'Times New Roman', Times, serif;
+    background-color: springgreen;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+}
+
+/* Header Styling */
+#header {
+    background-color: blue;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling for Content Section */
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+.content img {
+    width: 450px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 10px 15px 20px red;
+}
+
+/* Box Model Example */
+.box {
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+/* Footer Styling */
+footer {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    padding: 15px;
+    background-color: #008080;
+    color: white;
+}
